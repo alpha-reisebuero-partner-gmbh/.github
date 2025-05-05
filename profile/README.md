@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+![Alpha_Logo_RGB](https://github.com/user-attachments/assets/b845213d-e64b-4172-8b4e-5b7898e2b54c)
 <!--
+
 
 **Here are some ideas to get you started:**
 
