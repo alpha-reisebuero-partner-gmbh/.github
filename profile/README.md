@@ -1,13 +1,39 @@
-## Hi there 👋
-![Alpha_Logo_RGB](https://github.com/user-attachments/assets/b845213d-e64b-4172-8b4e-5b7898e2b54c)
-<!--
+## 👋 Willkommen bei Alpha Reisebüro Partner GmbH
 
+<div style="background-color: #fff; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/b845213d-e64b-4172-8b4e-5b7898e2b54c" alt="Alpha_Logo_RGB" style="max-width: 300px;">
+</div>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌍 Wer wir sind
+
+Die **Alpha Reisebüro Partner GmbH** ist ein führendes Vertriebsunternehmen in der Touristikbranche –  
+Teil der [schauinsland-reisen Unternehmensgruppe](https://www.schauinsland-reisen.de).
+
+Mit über **825 angeschlossenen Reisebüros in ganz Deutschland** bieten wir maßgeschneiderte Modelle für selbstständige Unternehmer:
+
+- [**HOLIDAY LAND**](https://www.holidayland.de) – unsere etablierte Franchise-Familie  
+- [**schauinsland-reisen PARTNER**](https://www.slr-partner.de) – die starke Kooperationsmarke
+
+Durch unsere enge Zusammenarbeit mit unseren Partnern schaffen wir echte Mehrwerte – bei Einkauf, Marketing, Produktsteuerung und Vertrieb.
+
+---
+
+### ✨ Warum Alpha?
+
+✔️ Beste Sonderkonditionen durch direkte Anbindung an schauinsland-reisen  
+✔️ Starke Verhandlungsmacht durch ein großes Netzwerk  
+✔️ Individuelle Unterstützung für selbstständige Reisebüros
+
+---
+
+### 📫 Kontakt & Beteiligung
+
+👉 Erfahre mehr auf unserer Website: [www.alpha-reisebuero.de](https://www.alpha-reisebuero.de)  
+📧 Kontakt: [info@alpha-reisebuero.de](mailto:info@alpha-reisebuero.de)  
+🔗 Folge uns auf [LinkedIn](https://www.linkedin.com/company/alpha-reisebuero-partner-gmbh)
+
+---
+
+> Gemeinsam stark in der Welt des Reisens.
