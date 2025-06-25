@@ -21,7 +21,7 @@ Durch unsere enge Zusammenarbeit mit unseren Partnern schaffen wir echte Mehrwer
 ### 📫 Kontakt & Beteiligung
 
 👉 Erfahre mehr auf unserer Website: [www.alpha-reisebuero-partner.de](https://www.alpha-reisebuero-partner.de)  
-📧 Kontakt: [info@alpha-reisebuero.de](mailto:info@alpha-reisen.de)  
+📧 Kontakt: [info@alpha-reisen.de](mailto:info@alpha-reisen.de)  
 
 ---
 
